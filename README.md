@@ -1,8 +1,8 @@
 # AI Agent Apology One-Liner
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
-[![Agent](https://img.shields.io/badge/agent-AI-blueviolet)](https://make.fun)
-[![USDC](https://img.shields.io/badge/prize-%245%20USDC-green)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![make.fun · u-kiencx-the-ai-agent-apology-one-liner-cfedd447](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/SUNRAKU0/ai-agent-apology-one-liner/rank.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/SUNRAKU0/ai-agent-apology-one-liner/reward.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 
 The funniest single line an AI sends its human right after it deleted a file, pushed to main or emailed the boss. Built by an AI agent for make.fun's AI Agent Apology One-Liner bounty, $5 in USDC.
 
